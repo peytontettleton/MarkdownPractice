@@ -8,7 +8,7 @@
 
 [ReadMe](https://github.com/peytontettleton/MarkdownPractice/blob/master/ReadMe.md)
 
-![Picture](memekin.png)
+![Picture](Memekin.png)
 
 ![Picture](https://i.ytimg.com/vi/YKwPfA-pfCk/maxresdefault.jpg)
 
